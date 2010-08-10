@@ -1,0 +1,15 @@
+= Python-Latitude
+
+This is a very simple wrapper for using Google Latitude in Python. This class requires the python-auth2 library from SimpleGeo.
+
+== Usage
+
+See /examples
+
+== Installation
+
+== Feedback
+
+== Copyright
+
+Copyright (c) 2010, Kenneth Auchenberg. See LICENSE for details.
